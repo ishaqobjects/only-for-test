@@ -4,7 +4,7 @@ Tags: Change Log, WP Change Log, WordPress Get Change Log, Get WP Change Log, WP
 Requires at least: 4.9
 Requires PHP: 5.2
 Tested up to: 4.9.4
-Stable tag: 1.0
+Stable tag: 1.0 
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl.html
 
